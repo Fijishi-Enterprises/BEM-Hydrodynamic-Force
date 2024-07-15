@@ -163,20 +163,3 @@ All files, mesh, case or BEM files, can be loaded by Drag and Drop or Copy and P
   <img src="https://github.com/izabala123/BEMRosetta/blob/master/other/md%20resources/Underwater.png" width="45%" title="Underwater mesh and waterline">
   <img src="https://github.com/izabala123/BEMRosetta/blob/master/other/md%20resources/Mesh.png" width="45%" title="All mesh ans waterline">
 </p>
-
-## Acknowledgments
-
-J. C. C. Portillo, J. C. C. Henriques, M. J. Sanchez-Lara, J. Galvan, A. Otter, M. Alonso, A. Aristondo.<br/>
-Some file parsing strategies taken from the [BEMIO project](https://wec-sim.github.io/bemio/).<br/>
-Done with the [U++ multiplatform library](https://www.ultimatepp.org/).
-
-## License
-
-Copyright © 2019-2021 Iñaki Zabala, Markel Peñalba, Yerai Peña-Sanchez, Thomas Kelly.
-
-BEMRosetta is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.\
-BEMRosetta is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for details. You should have received a copy of the GNU General Public License along with BEMRosetta. If not, see http://www.gnu.org/licenses/.<br/>
-<br/>
-<br/>
-<p align="center"><img src="https://github.com/izabala123/BEMRosetta/blob/master/other/logos/BEMRosetta.png" width="200" title="BEMRosetta"></p>
-
